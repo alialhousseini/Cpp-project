@@ -16,9 +16,9 @@ block and roof.
 Which keeps track of various products. This class should have:
 1. A list of products. 
 2. The following operations:
-* A private function load that loads the data from the local files
+*A private function load that loads the data from the local files
 to inventory list of products
-∗ A private function save that saves the products list to a disk
+*A private function save that saves the products list to a disk
 ∗ A function removeProduct to remove a specific product according
 to its id.
 ∗ A function add to add a new product to the inventory
